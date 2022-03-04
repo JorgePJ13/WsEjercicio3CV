@@ -6,13 +6,13 @@ body{
 div{
     background-color: beige;
     border: 2px solid darkred;
-    padding: 24px;
+    padding: 11px;
     width: 60%;
     margin: 0 auto;
 }
 
 fieldset{
-    margin-bottom: 32px;
+    margin-bottom: 30px;
 }
 
 legend{
@@ -31,4 +31,8 @@ img{
 
 span{
     font-weight: bold;
+}
+
+ul {
+    list-style-type: square;
 }
